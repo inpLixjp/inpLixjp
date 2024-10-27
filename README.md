@@ -1,5 +1,4 @@
 ![banner](banner.jpeg)
-# 説明
 Just a coffee will be enough to make my day ☕
 # 海斗 stats
 

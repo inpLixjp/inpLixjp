@@ -1,5 +1,4 @@
 ![banner](banner.jpeg)
-Just a coffee will be enough to make my day ☕
 # 海斗 stats
 
 ![inpLixjp GitHub Stats](https://github-readme-stats.vercel.app/api?username=inpLixjp&show_icons=true&theme=radical)
